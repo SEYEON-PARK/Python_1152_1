@@ -9,4 +9,4 @@
 """
 
 s=list(map(str, input().split())) # 문자열을 입력받아서 공백을 기준으로 자른 후, 리스트 s에 저장하기
-print(len(s))
+print(len(s)) # s의 길이 출력하기
