@@ -8,5 +8,5 @@
 첫째 줄에 단어의 개수를 출력한다.
 """
 
-s=list(map(str, input().split()))
+s=list(map(str, input().split())) # 문자열을 입력받아서 공백을 기준으로 자른 후, 리스트 s에 저장하기
 print(len(s))
